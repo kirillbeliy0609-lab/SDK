@@ -1,3 +1,4 @@
 a = float(input("Введите первое значение: "))
 b = float(input("Введите второе значение: "))
 print("Сумма:", a + b)
+print("blablabla")
